@@ -1,0 +1,32 @@
+## Java / Maven
+#backend/target/
+#*.class
+#
+## Node / Vite
+#frontend/node_modules/
+#frontend/dist/
+#frontend/.env.local
+#
+## IDE and operating system
+#.idea/
+#*.iml
+#.vscode/
+#.DS_Store
+#Thumbs.db
+# Java and Maven
+**/target/
+
+# Node.js and Vite
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
