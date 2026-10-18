@@ -137,3 +137,17 @@ This repository is a local learning/demo starter, not a production-ready deploym
 ## Tech stack
 
 Java 21 · Spring Boot 3.5 · Spring Security · JWT (JJWT) · Spring Data JPA · Hibernate · MySQL · React · TypeScript · Vite · Axios
+
+## Application Screenshots
+
+### Dashboard
+
+![Employee Management Dashboard][E:\employee-management-leave-tracking-system\screenshorts\Screenshot 2026-10-18 115926.png]
+
+### Employee Directory
+
+![Employee Directory][E:\employee-management-leave-tracking-system\screenshorts\Screenshot 2026-10-18 115932.png]
+
+### Leave Requests
+
+![Leave Requests][screenshorts/Screenshot 2026-10-18 115937.png]
